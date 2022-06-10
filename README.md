@@ -1,6 +1,6 @@
 
  Hi, I'm Shimin Zhang (张是民) 
-- 📕 Research interests: Speech Enhacement (including acoustic echo cancellation, noise suppression)
+- 📕 Research interests: Speech Enhacement (including acoustic echo cancellation, noise suppression, target speaker extration)
 - 📫 How to reach me: shmzhang@npu-aslp.org
 - 🤔 I’m looking for help with designing adaptive filters
  

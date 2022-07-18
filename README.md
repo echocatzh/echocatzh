@@ -2,8 +2,10 @@
  Hi, I'm Shimin Zhang (张是民) 
 - 📕 Research interests: Speech Enhacement (including acoustic echo cancellation, noise suppression, target speaker extration)
 - 📫 How to reach me: shmzhang@npu-aslp.org
-- 🤔 I’m looking for help with designing adaptive filters
- 
+
+Last update time: 07-18-2022 
+
+
  <img src="https://github-readme-stats.vercel.app/api?username=echocatzh&show_icons=true&hide=issues&theme=dark&hide_title=false" />
 
 <!--
@@ -16,3 +18,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+

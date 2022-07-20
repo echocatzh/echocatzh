@@ -5,7 +5,7 @@ Last update time: 07-20-2022
 - 📫 How to reach me: shmzhang@npu-aslp.org
 
 
-<table id="tbl" border=1 width="80%" rules=none >
+<table id="tbl" border=1 width="80%" rules=none frame=void>
 <td><img src="https://github-readme-stats.vercel.app/api?username=echocatzh&show_icons=true&hide=issues&theme=dark&hide_title=false" ></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echocatzh&layout=compact&theme=dark&hide_title=false" ></td>
 </table>

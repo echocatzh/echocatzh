@@ -3,11 +3,14 @@
 - 📕 Research interests: Speech Enhacement (including acoustic echo cancellation, noise suppression, target speaker extration)
 - 📫 How to reach me: shmzhang@npu-aslp.org
 
-Last update time: 07-18-2022 
+
 
 
  <img src="https://github-readme-stats.vercel.app/api?username=echocatzh&show_icons=true&hide=issues&theme=dark&hide_title=false" />
 
+Visitor Count from 07-20-2022
+![Visitor Count](https://profile-counter.glitch.me/royjames/count.svg)
+Last update time: 07-20-2022 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -1,3 +1,4 @@
+Last update time: 07-20-2022 
 
  Hi, I'm Shimin Zhang (张是民) 
 - 📕 Research interests: Speech Enhacement (including acoustic echo cancellation, noise suppression, target speaker extration)
@@ -12,7 +13,6 @@
 Visitor Count from 07-20-2022
 ![Visitor Count](https://profile-counter.glitch.me/echocatzh/count.svg)
 
-Last update time: 07-20-2022 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

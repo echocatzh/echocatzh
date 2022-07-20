@@ -10,9 +10,7 @@ Last update time: 07-20-2022
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echocatzh&layout=compact&theme=dark&hide_title=false" ></td>
 </table>
 
-
-Visitor Count from 07-20-2022
-![Visitor Count](https://profile-counter.glitch.me/echocatzh/count.svg)
+![Visitor Count from 07-20-2022 to the present](https://profile-counter.glitch.me/echocatzh/count.svg)
 
 <!--
 - 🔭 I’m currently working on ...

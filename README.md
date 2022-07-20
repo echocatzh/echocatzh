@@ -6,7 +6,7 @@ Last update time: 07-20-2022
 
 
 
-<table border=0>
+<table frame=void>
 <td><img src="https://github-readme-stats.vercel.app/api?username=echocatzh&show_icons=true&hide=issues&theme=dark&hide_title=false" border=0></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echocatzh&layout=compact&theme=dark&hide_title=false" border=0></td>
 </table>
